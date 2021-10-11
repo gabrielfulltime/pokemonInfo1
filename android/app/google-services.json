@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993890191514",
+    "project_id": "pokebank-ft",
+    "storage_bucket": "pokebank-ft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993890191514:android:43bcbbc8ed21007294f723",
+        "android_client_info": {
+          "package_name": "br.com.fulltime.pokebankv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993890191514-rukrkilvf0b3o1l1bck6q3vnglpb16b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5qD89xz-cikQIyVK07Bw7ELmLbGqYEAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993890191514-rukrkilvf0b3o1l1bck6q3vnglpb16b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
